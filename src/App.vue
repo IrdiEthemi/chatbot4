@@ -541,7 +541,7 @@ export default {
             })
         }
  
-        this.send({text: "start"})
+        this.send({text: "Hello!"})
     },
     methods: {
         send(submission){
