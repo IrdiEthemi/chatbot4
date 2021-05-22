@@ -1,3 +1,4 @@
+<!-- Animation Component for Response Delay -->
 <template>
     <div class="rich-component" :class="{'me': me, 'fullwidth': fullwidth}"><slot /></div>
 </template>
